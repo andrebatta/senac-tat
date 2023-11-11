@@ -3,4 +3,5 @@
  
 Repositório de conteudo das aulas do curso técnico de informática.
 
-### André Battaggia Razzano 
+### Autor
+André Battaggia Razzano 
